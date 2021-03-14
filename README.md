@@ -3,7 +3,7 @@
 Demo for ProtoStax Air Quality Monitor with Raspberry Pi, Micro Servo,
 RGB LED and ProtoStax Enclosure
 
-![ProtoStax Air Quality Monitor Demo](ProtoStax_Air_Quality_Monitor_Demo.jpg)
+![ProtoStax Air Quality Monitor Demo](ProtoStax_Air_Quality_Monitor_Demo.gif)
 
 using [ProtoStax for Raspberry Pi A+](https://www.protostax.com/products/protostax-for-raspberry-pi-a)
 
