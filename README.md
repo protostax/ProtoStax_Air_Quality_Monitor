@@ -5,6 +5,9 @@ RGB LED and ProtoStax Enclosure
 
 ![ProtoStax Air Quality Monitor Demo](ProtoStax_Air_Quality_Monitor_Demo.gif)
 
+![ProtoStax Air Quality Monitor Demo](ProtoStax_Air_Quality_Monitor_Demo.jpg)
+
+
 using
 * [ProtoStax for Raspberry Pi A+](https://www.protostax.com/products/protostax-for-raspberry-pi-a)
 * [ProtoStax Micro Servo Analog Gauge Add-On](https://www.protostax.com/products/protostax-micro-servo-analog-gauge-add-on)
