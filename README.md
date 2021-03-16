@@ -45,6 +45,8 @@ git clone https://github.com/protostax/ProtoStax_Air_Quality_Monitor.git
 cd ProtoStax_Air_Quality_Monitor
 ```
 
+First finish wiring your micro servo and RGB LED as shown in the Fritzing diagram
+
 Calibrate your micro servo first. Find the min, max and center duty
 cycles for your given micro servo with its analog gauge. Follow the
 instructions in servo_test.py
@@ -52,7 +54,6 @@ instructions in servo_test.py
 Edit aqi_monitor.py to update MIN_DUTY, MAX_DUTY and CENTER_DUTY
 values.
 
-Finish wiring your micro servo and RGB LED as shown in the Fritzing diagram
 
 Run your Air Quality Monitor as follows:
 
